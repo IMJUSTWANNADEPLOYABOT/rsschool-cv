@@ -1,3 +1,2 @@
-# rsschool-cv 
-[Link to CV](https://IMJUSTWANNADEPLOYABOT.github.io/rsschool-cv/cv) 
-[Link to CV HTML](https://imjustwannadeployabot.github.io/rsschool-cv/) 
+* [CV в формате Markdown](https://imjustwannadeployabot.github.io/rsschool-cv/cv)
+* [CV в виде свёрстанной страницы](https://imjustwannadeployabot.github.io/rsschool-cv/)
